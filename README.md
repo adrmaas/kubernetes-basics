@@ -236,7 +236,7 @@ Get pods in a namespace from a cluster:
 ```
 kubectl --context cluster-name --namespace name get pods 
 ```
-Describe a pod to get information about it:
+Describe a pod to see things like the container image version and environment variables:
 ```
 kubectl --context cluster-name --namespace name describe pod hello-world-8rlgb
 ```

@@ -1,7 +1,5 @@
 # Kubernetes Basics
-A brief introduction to kuberenetes
-
-This intended as a quick introduction to Kubernetes.
+This intended as a quick introduction to Kubernetes to get engineers started.
 
 # What’s Kubernetes?
 

@@ -246,7 +246,7 @@ Get the logs from a pod:
 ```
 kubectl --context cluster-name --namespace name logs -f hello-world-8rlgb
 ```
-Execute:
+Execute a command on a pod and get a shell (if bash exists):
 ```
 kubectl --context cluster-name --namespace name exec --stdin --tty hello-world-8rlgb -- /bin/bash
 ```

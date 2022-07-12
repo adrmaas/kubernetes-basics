@@ -258,7 +258,7 @@ Delete resources in a manifest:
 ```
 kubectl --context cluster-name --namespace name delete -f deploy.yaml
 ```
-Graphic Interface
+# Graphic Interface
 
 Often I try and persuade people of value of the command line but in Kubernetes what you don’t see can hurt you so I fully recommend using the command line and a GUI.
 
